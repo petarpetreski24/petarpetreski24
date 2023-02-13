@@ -34,4 +34,4 @@ src="https://img.shields.io/github/followers/petarpetreski24?logo=github&style=f
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/petarpetreski24"><img src="https://github-readme-stats.vercel.app/api?username=petarpetreski24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="petarpetreski24's GitHub stats" style="border: 1px white solid;"/></a>
-![Leetcode Stats](https://leetcard.jacoblin.cool/petarpetreski24?width=485&height=195)
+![Leetcode Stats](https://leetcard.jacoblin.cool/petarpetreski24?width=500&height=195)
