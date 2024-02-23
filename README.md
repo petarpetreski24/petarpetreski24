@@ -7,9 +7,6 @@ Software Engineer Student at FCSE - Skopje
 * ✉️  You can contact me at [petreskipetar24@gmail.com](mailto:petreskipetar24@gmail.com)
 * ⚡  I have some interesting project on my repos, check it out :D
 
-<a href="https://www.github.com/petarpetreski24" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/petarpetreski24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -22,8 +19,15 @@ src="https://img.shields.io/github/followers/petarpetreski24?logo=github&style=f
 
 <p align="left"> <a href="https://www.github.com/petarpetreski24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/petar-petreski-67097b237/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<a href="https://www.github.com/petarpetreski24" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/petarpetreski24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/petarpetreski24"><img src="https://github-readme-stats.vercel.app/api?username=petarpetreski24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="petarpetreski24's GitHub stats" /></a>
+
+<b>My LeetCode Stats</b>
+![Leetcode Stats](https://leetcard.jacoblin.cool/petarpetreski24?width=500&height=195)
+
